@@ -1,0 +1,15 @@
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/bin/Debug/net6.0/Task_03
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/bin/Debug/net6.0/Task_03.deps.json
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/bin/Debug/net6.0/Task_03.runtimeconfig.json
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/bin/Debug/net6.0/Task_03.dll
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/bin/Debug/net6.0/Task_03.pdb
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.csproj.AssemblyReference.cache
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.AssemblyInfoInputs.cache
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.AssemblyInfo.cs
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.csproj.CoreCompileInputs.cache
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.dll
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/refint/Task_03.dll
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.pdb
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/Task_03.genruntimeconfig.cache
+/Users/sofa/Desktop/seminars/.vscode/repo/Task_03/obj/Debug/net6.0/ref/Task_03.dll
